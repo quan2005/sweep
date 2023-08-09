@@ -1,5 +1,8 @@
 # Changelog
 
+## Aug 09, 2023
+- fork过来，尝试去支持gitlab
+
 ## July 30, 2023
 - We just launched external search! Sweep can now read the page of any link you reference in the issue title + description to publicly accessible URLs, including links to docs and PR's on open-source repos!
 
